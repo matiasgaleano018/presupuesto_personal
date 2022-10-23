@@ -1,0 +1,28 @@
+.bg-login{
+    background-image: url(../img/portada-login.jpg);
+}
+.card-ingresos{
+    background-image: url(../img/icono-ingreso.png);
+    background-repeat: no-repeat;
+    background-position: 95% 2%;
+}
+
+.card-egresos{
+    background-image: url(../img/icono-egresos.png);
+    background-repeat: no-repeat;
+    background-position: 95% 2%;
+}
+
+.card-balance{
+    background-image: url(../img/icono-balance.png);
+    background-repeat: no-repeat;
+    background-position: 95% 2%;
+}
+.card-capital{
+    background-image: url(../img/icono-capital.png);
+    background-repeat: no-repeat;
+    background-position: 95% 2%;
+}
+.modal-st{
+    width: 80% !important;
+}
